@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6314FE15C6A00E4B23C65E902956E31D526D6E95",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB1447E5EC45C3BC6DA7A2F48EB02BECB1D852F8" : 9223372036854775807,
+    "6314FE15C6A00E4B23C65E902956E31D526D6E95" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FE31232B-F96D-4435-A8D0-276F14E51D30",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB1447E5EC45C3BC6DA7A2F48EB02BECB1D852F8" : "",
+    "6314FE15C6A00E4B23C65E902956E31D526D6E95" : "CS555_Image_Processing_Raheja\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "matTutorial",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ResearchPapers\/ExemplarBasedInpainting\/CriminisiInpaint-master\/matTutorial\/matTutorial.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxkim16\/CS555_Image_Processing.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6314FE15C6A00E4B23C65E902956E31D526D6E95"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxkim16\/Senior-Project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB1447E5EC45C3BC6DA7A2F48EB02BECB1D852F8"
+    }
+  ]
+}
